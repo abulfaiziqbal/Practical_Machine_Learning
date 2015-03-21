@@ -5,7 +5,7 @@
 
 #Developer: Abul Faiz Iqbal
 
-#GitHub repo: https://github.com/diogoaurelio/Practical-Machine-Learning/tree/master/Course%20Project
+#GitHub repo: https://github.com/abulfaiziqbal/Practical_Machine_Learning/blob/master/Project_Report.md
 
 
 
